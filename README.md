@@ -62,11 +62,6 @@ The goal is to develop a robust **deep learning model** to accurately classify f
   - Predict and **display the fish category**.
   - Provide **confidence scores** for predictions.
 
-### 📌 Documentation & Deliverables
-
-- Provide **comprehensive documentation** of the approach, code, and evaluation.
-- Create a **GitHub repository** with a well-structured **README** file.
-
 ## 📂 Dataset
 
 - The dataset consists of **fish images**, categorized into folders by species.
