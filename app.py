@@ -112,5 +112,5 @@ st.markdown("""
     **📌 Note:** This model classifies fish species based on trained data. 
     If incorrect classifications occur, please ensure clear fish images. 
     
-    📖 [GitHub Repository](#) | 🤖 Model by AI/ML Developer
+    📖 [https://github.com/RajeshwariArumugam/Image-Classification-Using-CNN.git](#) | 🤖 Model by AI/ML Developer
 """)
