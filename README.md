@@ -6,15 +6,6 @@
 
 This project aims to classify fish images into multiple categories using deep learning techniques. It involves training a **CNN from scratch** and leveraging **transfer learning** with pre-trained models to enhance performance. Additionally, the project includes saving models for future use and deploying a **Streamlit application** to predict fish species from user-uploaded images.
 
-## 🎯 Skills Gained
-
-- Deep Learning
-- Python & TensorFlow/Keras
-- Streamlit for Model Deployment
-- Data Preprocessing & Augmentation
-- Transfer Learning
-- Model Evaluation & Visualization
-- Model Deployment
 
 ## 🏢 Domain
 
@@ -62,6 +53,15 @@ The goal is to develop a robust **deep learning model** to accurately classify f
   - Predict and **display the fish category**.
   - Provide **confidence scores** for predictions.
 
+## 🎯 Skills Gained
+
+- Deep Learning
+- Python & TensorFlow/Keras
+- Streamlit for Model Deployment
+- Data Preprocessing & Augmentation
+- Transfer Learning
+- Model Evaluation & Visualization
+
 ## 📂 Dataset
 
 - The dataset consists of **fish images**, categorized into folders by species.
@@ -74,4 +74,5 @@ The goal is to develop a robust **deep learning model** to accurately classify f
 - **Streamlit Application:** Interactive web app for real-time predictions.
 - **Python Scripts:** For **training, evaluation, and deployment**.
 - **Comparison Report:** Metrics & insights from all models.
+
 
